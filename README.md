@@ -1,0 +1,1 @@
+This project is made to revise basic html, css along with proper structure of organization
